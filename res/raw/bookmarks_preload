@@ -1,0 +1,16 @@
+{
+    "version": "1.0"
+    "title": "LineageOS"
+    "bookmarks": [{
+        "title": "LineageOS website",
+        "url": "http://lineageos.org/",
+        "favicon": "data.image/png;base64,...",
+        "touchicon": "data.image/png;base64,...",
+    }, {
+        "title": "LineageOS wiki",
+        "url": "http://wiki.lineageos.org/",
+        "favicon": "data.image/png;base64,...",
+        "touchicon": "data.image/png;base64,...",
+   }]
+}
+
