@@ -1,0 +1,14 @@
+
+<resources>
+    <!-- Enable download Enhancements -->
+    <bool name="swe_downloadpath_dir_on_mime">true</bool>
+    <string name="swe_downloadpath_activity_intent" translatable="false">gello</string>
+    <string name="swe_downloadpath_activity_result_selection" translatable="false">gello</string>
+
+    <!-- Theme -->
+    <color name="accent">#167B80</color>
+
+    <!-- Bookmarks -->
+    <bool name="swe_force_enable_partner_customization">true</bool>
+    <integer name="disablebookmarksediting">1</integer>
+</resources>

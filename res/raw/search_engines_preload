@@ -1,0 +1,36 @@
+{
+    "version": "1.0",
+    "searchEngines": [{
+        "name": "Google (Encrypted)",
+        "keyword": "encrypted.google.com",
+        "searchUrl": "https://encrypted.google.com/search?ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}",
+        "faviconUrl": "https://encrypted.google.com/favicon.ico",
+        "id": 1002
+    }, {
+        "name": "DuckDuckGo",
+        "keyword": "duckduckgo.com",
+        "searchUrl": "https://duckduckgo.com/?q={searchTerms}&amp;t=cyanogenmod",
+        "faviconUrl": "http://duckduckgo.com/favicon.ico",
+        "id": 1003
+    }, {
+        "name": "Yahoo",
+        "keyword": "yahoo.com",
+        "searchUrl": "http://search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}",
+        "faviconUrl": "http://search.yahoo.com/favicon.ico",
+        "id": 1004
+    }, {
+        "name": "Bing",
+        "keyword": "bing.com",
+        "searchUrl": "http://www.bing.com/search?q={searchTerms}",
+        "faviconUrl": "http://www.bing.com/s/wlflag.ico",
+        "id": 1005
+        }, {
+        "name": "Baidu",
+        "keyword": "baidu.com",
+        "searchUrl": "http://www.baidu.com/s?wd={searchTerms}",
+        "faviconUrl": "http://www.baidu.com/favicon.ico",
+        "id": 1006
+    }],
+    "default" : 0,
+    "default_incognito" : 1
+}

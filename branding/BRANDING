@@ -3,7 +3,9 @@ COMPANY_SHORTNAME=LineageOS LLC
 PRODUCT_FULLNAME=Gello Browser
 PRODUCT_SHORTNAME=Browser
 PRODUCT_INSTALLER_FULLNAME=Gello Browser
-PRODUCT_INSTALLER_SHORTNAME=Gello Browser
+PRODUCT_INSTALLER_SHORTNAME=Browser
 COPYRIGHT=Copyright (c) 2017 The LineageOS Project. All rights reserved.
 PACKAGE_NAME=org.lineageos.gello.browser
-
+APK_LABEL=@string/application_name
+APK_AUTHORITIES=gello
+APP_AUTHORITIES=local.gello
