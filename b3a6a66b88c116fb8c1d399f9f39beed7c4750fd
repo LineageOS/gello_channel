@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "1a486d77_441de365",
+        "filename": "res/raw/search_engines_preload",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2017-05-09T16:37:38Z",
+      "side": 1,
+      "message": "https://encrypted.google.com/#q\u003dhi\n(on desktop)\nI tried that URL with {inputEncoding} as \"utf-8\" and {searchTerms} as foo, on desktop, and it worked",
+      "parentUuid": "1a486d77_a40ed732",
+      "range": {
+        "startLine": 6,
+        "startChar": 108,
+        "endLine": 6,
+        "endChar": 109
+      },
+      "revId": "b3a6a66b88c116fb8c1d399f9f39beed7c4750fd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a486d77_c409d32d",
         "filename": "res/raw/search_engines_preload",
         "patchSetId": 1
@@ -36,6 +60,30 @@
       "writtenOn": "2017-05-09T16:30:19Z",
       "side": 1,
       "message": "wat",
+      "range": {
+        "startLine": 12,
+        "startChar": 68,
+        "endLine": 12,
+        "endChar": 79
+      },
+      "revId": "b3a6a66b88c116fb8c1d399f9f39beed7c4750fd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a486d77_241ae76e",
+        "filename": "res/raw/search_engines_preload",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2017-05-09T16:37:38Z",
+      "side": 1,
+      "message": "CyanogenMod probably had some agreement with duckduckgo, maybe for stats tracking of how many CM users were using DDG",
+      "parentUuid": "1a486d77_c409d32d",
       "range": {
         "startLine": 12,
         "startChar": 68,
