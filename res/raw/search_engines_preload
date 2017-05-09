@@ -3,19 +3,19 @@
     "searchEngines": [{
         "name": "Google (Encrypted)",
         "keyword": "encrypted.google.com",
-        "searchUrl": "https://encrypted.google.com/search?ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}",
+        "searchUrl": "https://encrypted.google.com/search?ie={inputEncoding}&source=android-browser&q={searchTerms}",
         "faviconUrl": "https://encrypted.google.com/favicon.ico",
         "id": 1002
     }, {
         "name": "DuckDuckGo",
         "keyword": "duckduckgo.com",
-        "searchUrl": "https://duckduckgo.com/?q={searchTerms}&amp;t=cyanogenmod",
+        "searchUrl": "https://duckduckgo.com/?q={searchTerms}&t=cyanogenmod",
         "faviconUrl": "http://duckduckgo.com/favicon.ico",
         "id": 1003
     }, {
         "name": "Yahoo",
         "keyword": "yahoo.com",
-        "searchUrl": "http://search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}",
+        "searchUrl": "http://search.yahoo.com/search?ei={inputEncoding}&fr=crmas&p={searchTerms}",
         "faviconUrl": "http://search.yahoo.com/favicon.ico",
         "id": 1004
     }, {
