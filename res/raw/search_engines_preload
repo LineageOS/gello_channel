@@ -3,7 +3,7 @@
     "searchEngines": [{
         "name": "Google (Encrypted)",
         "keyword": "encrypted.google.com",
-        "searchUrl": "https://encrypted.google.com/search?ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}",
+        "searchUrl": "https://encrypted.google.com/search?ie={inputEncoding}&amp;source=android-browser&amp;#q={searchTerms}",
         "faviconUrl": "https://encrypted.google.com/favicon.ico",
         "id": 1002
     }, {
